@@ -1,0 +1,1 @@
+msiexec.exe /qn /i "c:\install\Ivanti Automation Agent+(x64) 10.17.0.0.msi"

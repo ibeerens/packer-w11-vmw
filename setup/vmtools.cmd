@@ -1,0 +1,1 @@
+e:\setup /s /v" /qb REBOOT=R ADDLOCAL=All REMOVE=Hgfs,VmwTimeProvider,NetworkIntrospection,CBHelper,FileIntrospection,VSS" /l c:\windows\temp\vmware_tools_install.log
